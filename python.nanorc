@@ -25,7 +25,7 @@ color green "\<(NoneType|TypeType|IntType|LongType|FloatType|ComplexType|StringT
 color green "def [a-zA-Z_0-9]+"
 ## keywords
 color brightred "\<(and|as|from|import|not|or)\>"
-color brightcyan "\<(assert|async|await|break|class|continue|def|del|elif|else|except|finally|for|global|if|in|is|lambda|map|pass|raise|return|try|with|while|yield)\>"
+color brightcyan "\<(assert|async|await|break|case|class|continue|def|del|elif|else|except|finally|for|global|if|in|is|lambda|map|match|pass|raise|return|try|with|while|yield)\>"
 
 ## decorators
 color brightgreen "@[a-zA-Z_0-9]+"
