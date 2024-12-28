@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: ShellCheck
-        uses: ludeeus/action-shellcheck@2
+        uses: ludeeus/action-shellcheck@master
         #with:
           # A space separated list of additional filename to check
           #additional_files: # optional, default is 
